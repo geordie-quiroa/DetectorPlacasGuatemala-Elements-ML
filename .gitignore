@@ -3,7 +3,7 @@
 !testImages/*.jpg
 !auto18-final.jpg
 detection.png
-YOLOv3.pdf
+*.pdf
 .ipynb_checkpoints/
 plateClassifier
 plateRecognitionFinal
