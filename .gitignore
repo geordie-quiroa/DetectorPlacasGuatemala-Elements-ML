@@ -1,0 +1,9 @@
+*.jpg
+.ipynb_checkpoints/
+plateClassifier
+plateRecognitionFinal
+finalPlateClassifier
+finalPlateClassifierCanny
+venv37/
+lapi.weights
+darknet-yolov3.cfg
