@@ -1,5 +1,6 @@
 *.jpg
 !auto18-final.jpg
+!testImages/
 detection.png
 YOLOv3.pdf
 .ipynb_checkpoints/
