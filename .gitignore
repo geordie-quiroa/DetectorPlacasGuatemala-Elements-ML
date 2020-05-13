@@ -1,4 +1,5 @@
 *.jpg
+!dataset/*/
 !testImages/*.jpg
 !auto18-final.jpg
 detection.png
