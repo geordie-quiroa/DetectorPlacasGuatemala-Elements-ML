@@ -11,7 +11,7 @@ La descripción técnica, matemática y práctica, así como el detalle del proc
   * darknet-yolov3.config
   * NO descargar classes.names
 * En el notebook, al querer correr una imagen, cambiar el path de la imagen a testImages. Ej: './testImages/auto.jpg' en lugar de './auto.jpg'
-* Para crear el dataset con la tipografía de Guatemala; utilizada para el entrenamiento de la NN, crear un directorio dataset, con subdirectorios de la A-Z y 0-9, para almacenar las imágenes creadas y aumentadas.
+* Para crear el dataset con la tipografía de Guatemala; utilizada para el entrenamiento de la CNN, crear un directorio dataset, con subdirectorios de la A-Z y 0-9, para almacenar las imágenes creadas y aumentadas.
 
 ## Requerimientos
 ---
