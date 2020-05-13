@@ -1,4 +1,6 @@
 *.jpg
+!auto18-with-plate.jpg
+YOLOv3.pdf
 .ipynb_checkpoints/
 plateClassifier
 plateRecognitionFinal
